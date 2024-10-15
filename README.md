@@ -9,8 +9,8 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 
 ## Projects
 
-### Tutorial 1: [Tutorial Name]
-**Description**: your First Arduino program!.
+### Tutorial 1: [Pin 13 blinking]
+**Description**: your First Arduino program!, this is a simple program in order to make pin13 blink on and off
 
 - **Code File**: [Tutorial1_Code](link-to-file)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/fJWR7dBuc18?si=60SnjQDBh12oIhjB)
