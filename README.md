@@ -20,7 +20,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 ### Tutorial 2: [Breadboard]
 **Description**: lighting an LED using a Breadboard .
 - **Main Components**: Arduino uno, LED, Breadboard, 330 ohm's resistor and two wires.
-- **Code File**: [Tutorial2_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/tree/main/Tutorial2_Code)
+- **Code File**: [Tutorial2_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial2_Code/Tutorial2_code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/CfdaJ4z4u4w?si=B7uzm9UZXnANyUuK)
 
 ---
