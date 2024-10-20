@@ -11,12 +11,19 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 
 ### Tutorial 1: [Pin 13 blinking]
 **Description**: your First Arduino program!, this is a simple program in order to make pin13 blink on and off
-
+- **Main Components**: Arduino uno.
 - **Code File**: [Tutorial1_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial1_Code/Tutorial1_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/fJWR7dBuc18?si=60SnjQDBh12oIhjB)
 
 ---
 
+### Tutorial 2: [Breadboard]
+**Description**: lighting an LED using a Breadboard .
+- **Main Components**: Arduino uno, LED, Breadboard, 330 ohm's resistor and two wires.
+- **Code File**: [Tutorial1_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial1_Code/Tutorial2_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/CfdaJ4z4u4w?si=B7uzm9UZXnANyUuK)
+
+---
 
 ## How to Use
 
