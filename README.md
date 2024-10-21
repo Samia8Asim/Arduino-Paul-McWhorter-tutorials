@@ -28,7 +28,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 ### Tutorial 3: [Variables]
 **Description**: Mores code letters with the help of Variables.
 - **Main Components**: Arduino uno, LED, Breadboard, 330 ohm's resistor and two wires.
-- **Code File**: [Tutorial3_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial2_Code/Tutorial2_code.ino)
+- **Code File**: [Tutorial3_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial3_Code/Tutorial3_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/nPOKOi1jIK0?si=FOUp3pw7ALVcyf1w)
 
 ---
