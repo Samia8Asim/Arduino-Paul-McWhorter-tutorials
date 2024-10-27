@@ -33,6 +33,14 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 
 ---
 
+### Tutorial 6: [Variables]
+**Description**: Binary counter.
+- **Main Components**: Arduino uno, 4 LED's, Breadboard, 4 (330 ohm's resistors) and 8 wires.
+- **Code File**: [Tutorial6_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial3_Code/Tutorial3_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/Lg39qKrdySU?si=_2hnqOQNFaPN8Sk7)
+
+---
+
 ## How to Use
 
 1. Clone the repository:
