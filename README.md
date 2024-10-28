@@ -44,7 +44,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 ### Tutorial 7: [Analog Write]
 **Description**: understanding and using analog write.
 - **Main Components**: Arduino uno, 1 LED, Breadboard, 330 ohm's resistors and 2 wires.
-- **Code File**: [Tutorial7_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial6_Code/Tutorial6_Code.ino)
+- **Code File**: [Tutorial7_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial7_Code/Tutorial7_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/YfV-vYT3yfQ?si=nkqMYFONgxoYQSp3)
 
 ---
