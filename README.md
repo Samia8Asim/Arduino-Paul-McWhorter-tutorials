@@ -52,7 +52,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 ### Tutorial 10: [Analog Read]
 **Description**: understanding and using analog Read.
 - **Main Components**: Arduino uno, Breadboard, 2 resistors and 3 wires.
-- **Code File**: [Tutorial10_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial7_Code/Tutorial7_Code.ino)
+- **Code File**: [Tutorial10_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial10_Code/Tutorial10_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/5TitZmA66bI?si=gY-n6iHHK3Ku2vrm)
 
 ---
