@@ -57,6 +57,22 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 
 ---
 
+### Tutorial 11: [Serial port and print commands]
+**Description**: understanding and using Serial port and print commands.
+- **Main Components**: Arduino uno.
+- **Code File**: [Tutorial10_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial10_Code/Tutorial10_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/b5kndEtAKl8?si=FVyy10RcM9kOJhcT)
+
+---
+
+### Tutorial 12: [Analog Read]
+**Description**: understanding and using Potentiometers.
+- **Main Components**: Arduino uno, Breadboard, Potentiometer and 3 wires.
+- **Code File**: [Tutorial10_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial10_Code/Tutorial10_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/PUte1cmJ44A?si=JkaBQmiW9Q2d8sZR)
+
+---
+
 
 ## How to Use
 
