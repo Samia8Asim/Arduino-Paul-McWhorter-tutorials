@@ -76,7 +76,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 ### Tutorial 13: [Arduino if statements]
 **Description**: understanding Arduino if statements.
 - **Main Components**: Arduino uno, Breadboard, Potentiometer,1 LED,330ohm's resistor, and 5 wires.
-- **Code File**: [Tutorial13_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial12_Code/Tutorial12_Code.ino)
+- **Code File**: [Tutorial13_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial13_Code/Tutorial13_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/ORNted-NgRM?si=T_0m8oItubDk1PXt)
 
 ---
