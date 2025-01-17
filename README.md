@@ -105,7 +105,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: Dimmable LED Project.
 
 - **Main Components**: Arduino uno, Breadboard, Potentiometer,1 LED,330ohm's resistor, and 5 wires.
-- **Code File**: [Tutorial13_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial13_Code/Tutorial13_Code.ino)
+- **Code File**: [Tutorial14_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial14_Code/Tutorial14_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/7wKdxsvXAFo?si=1KuzWCulxt0dbbYd)
 
 ---
