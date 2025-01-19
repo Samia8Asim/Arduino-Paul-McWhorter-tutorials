@@ -110,6 +110,16 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 
 ---
 
+### Tutorial 15: [Arduino for loops]
+
+**Description**: understanding Arduino for loops.
+
+- **Main Components**: Arduino uno, Breadboard, 2 LED,2 330ohm's resistor, and 4 wires.
+- **Code File**: [Tutorial15_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial14_Code/Tutorial14_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/7wKdxsvXAFo?si=1KuzWCulxt0dbbYd)
+
+---
+
 ## How to Use
 
 1. Clone the repository:
