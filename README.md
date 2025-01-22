@@ -120,6 +120,36 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 
 ---
 
+### Tutorial 16: [Arduino for loops2]
+
+**Description**: understanding Arduino for loops.
+
+- **Main Components**: Arduino uno
+- **Code File**: [Tutorial16_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial14_Code/Tutorial14_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/5cd_8AmkI04?si=2YCA416yXCnSlfvK)
+
+---
+
+### Tutorial 17: [Arduino while loops]
+
+**Description**: understanding Arduino while loops.
+
+- **Main Components**: Arduino uno, Breadboard, Potentiometer,1 LED,330ohm's resistor, and 5 wires.
+- **Code File**: [Tutorial17_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial14_Code/Tutorial14_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/CITZIv3SmvU?si=PzVaafPIbxymP6U4)
+
+---
+
+### Tutorial 18: [Read numbers from Serial Monitor]
+
+**Description**: understanding how to read numbers from Serial Monitor.
+
+- **Main Components**: Arduino uno, Breadboard,1 LED,330ohm's resistor, and 2 wires.
+- **Code File**: [Tutorial18_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial14_Code/Tutorial14_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/7aP5KL5clWA?si=mw3UsuxuWXE9fuAc)
+
+---
+
 ## How to Use
 
 1. Clone the repository:
