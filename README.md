@@ -150,6 +150,16 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 
 ---
 
+### Tutorial 19: [Read Strings from Serial Monitor]
+
+**Description**: understanding how to read Strings from Serial Monitor.
+
+- **Main Components**: Arduino uno, Breadboard,3 LED,330ohm's resistor, and 6 wires.
+- **Code File**: [Tutorial19_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial18_Code/Tutorial18_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/MAnAc_t0OrM?si=ZsZJ2pYSUvcLFfT6)
+
+---
+
 ## How to Use
 
 1. Clone the repository:
