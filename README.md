@@ -165,7 +165,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: Understanding RGB LED's.
 
 - **Main Components**: Arduino uno, Breadboard, RGB LED, 3 330ohm's resistor and 4 wires.
-- **Code File**: [Tutorial120_and_21_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial120_and_21_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial20_and_21_Code/Tutorial20_and_21_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/r_PexDLIfH8?si=fzwKHgyWo3-HDkGP)
 
 ---
@@ -175,8 +175,8 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: Understanding and Using Active Buzzers to Add Sound to Your Project.
 
 - **Main Components**: Arduino uno, Breadboard, Active Buzzer, Potentiometer and 5 wires.
-- **Code File**: [Tutorial122.1_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
-- **Code File**: [Tutorial122.2_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial122.1_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial22_Code/Tutorial22.1_Code.ino)
+- **Code File**: [Tutorial122.2_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial22_Code/Tutorial22.2_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/tuRAvlVBEl0?si=K3nS4bMAgEsSs6A4)
 
 ---
@@ -186,7 +186,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: Learn how to change the tone of an Active Buzzer.
 
 - **Main Components**: Arduino uno, Breadboard, Active Buzzer and 2 wires.
-- **Code File**: [Tutorial23_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial23_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial23_Code/Tutorial23_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/W5AApP9P-b0?si=m8MOU5lCFW0mSZan)
 
 ---
@@ -196,7 +196,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: Understanding Passive Buzzers.
 
 - **Main Components**: Arduino uno, Breadboard, Passive Buzzer, Potentiometer and 5 wires.
-- **Code File**: [Tutorial24_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial24_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial24_Code/Tutorial24_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/dHYKRrlPNzM?si=uqfkD4DvGFDfCO8Y)
 
 ---
@@ -206,7 +206,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: Understanding Photoresistors and Photo Detectors.
 
 - **Main Components**: Arduino uno, Breadboard, Photoresistor, 2 LED, 3 resistors and 7 wires.
-- **Code File**: [Tutorial25_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial25_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial25_Code/Tutorial25_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/WMkN-uHd-Xo?si=vPDbda6_dV2_hLbJ)
 
 ---
@@ -216,7 +216,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: More Photoresistors.
 
 - **Main Components**: Arduino uno, Breadboard, Photoresistor, Passive Buzzer, 1 resistor and 5 wires.
-- **Code File**: [Tutorial26_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial26_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial26_Code/Tutorial26_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/42ahyWUkTiU?si=GfJ7BoJqfzmtkjJ5)
 
 ---
@@ -226,7 +226,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: Understanding and using Pushbuttons, Pull up and Pull Down resistors.
 
 - **Main Components**: Arduino uno, Breadboard, Pushbutton, 1 LED(330 ohm, 10k ohm), 2 resistors and 5 wires.
-- **Code File**: [Tutorial27_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial27_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial27_Code/Tutorial27_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/AgQW81zzR18?si=g7Td7B_Wcd0ZcQUx)
 
 ---
@@ -236,7 +236,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: Using a Pushbutton as a Toggle Switch.
 
 - **Main Components**: Arduino uno, Breadboard, Pushbutton, 1 LED, 2 resistors(330 ohm, 10k ohm) and 5 wires.
-- **Code File**: [Tutorial28_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial28_Code](hhttps://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial28_Code/Tutorial28_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/aMato4olzi8?si=_jDlyISkzJMzyN4S)
 
 ---
@@ -246,7 +246,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: Using Push Buttons to Create Dimmable LED.
 
 - **Main Components**: Arduino uno, Breadboard, Active Buzzer, 2 Pushbutton, 1 LED, 3 resistors(330 ohm,2 10k ohm) and 10 wires.
-- **Code File**: [Tutorial29_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial29_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial29_Code/Tutorial29_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/XWL6Ydsmi0s?si=rJl0GmZvk2VHxbf9)
 
 ---
@@ -258,7 +258,7 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 **Description**: Understanding and Using Servos in Projects.
 
 - **Main Components**: Arduino uno, Servo motor and 3 wires.
-- **Code File**: [Tutorial30_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial30_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial30_Code/Tutorial30_Code.ino)
 - **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/aFHu65LiFok?si=FyRUcyxDrYQr9j87)
 
 ---
