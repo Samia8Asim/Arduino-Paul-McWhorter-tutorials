@@ -160,6 +160,109 @@ The Arduino Paul McWhorter series is a popular collection of tutorials that demo
 
 ---
 
+### Tutorial 20 and 21: [RGB LED's]
+
+**Description**: Understanding RGB LED's.
+
+- **Main Components**: Arduino uno, Breadboard, RGB LED, 3 330ohm's resistor and 4 wires.
+- **Code File**: [Tutorial120_and_21_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/r_PexDLIfH8?si=fzwKHgyWo3-HDkGP)
+
+---
+
+### Tutorial 22 : [Active Buzzer]
+
+**Description**: Understanding and Using Active Buzzers to Add Sound to Your Project.
+
+- **Main Components**: Arduino uno, Breadboard, Active Buzzer, Potentiometer and 5 wires.
+- **Code File**: [Tutorial122.1_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **Code File**: [Tutorial122.2_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/tuRAvlVBEl0?si=K3nS4bMAgEsSs6A4)
+
+---
+
+### Tutorial 23: [Changing Tone of an Active Buzzer]
+
+**Description**: Learn how to change the tone of an Active Buzzer.
+
+- **Main Components**: Arduino uno, Breadboard, Active Buzzer and 2 wires.
+- **Code File**: [Tutorial23_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/W5AApP9P-b0?si=m8MOU5lCFW0mSZan)
+
+---
+
+### Tutorial 24: [Passive Buzzers]
+
+**Description**: Understanding Passive Buzzers.
+
+- **Main Components**: Arduino uno, Breadboard, Passive Buzzer, Potentiometer and 5 wires.
+- **Code File**: [Tutorial24_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/dHYKRrlPNzM?si=uqfkD4DvGFDfCO8Y)
+
+---
+
+### Tutorial 25: [Photoresistors and Photo Detectors]
+
+**Description**: Understanding Photoresistors and Photo Detectors.
+
+- **Main Components**: Arduino uno, Breadboard, Photoresistor, 2 LED, 3 resistors and 7 wires.
+- **Code File**: [Tutorial25_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/WMkN-uHd-Xo?si=vPDbda6_dV2_hLbJ)
+
+---
+
+### Tutorial 26: [More Fun with Photo Resistors]
+
+**Description**: More Photoresistors.
+
+- **Main Components**: Arduino uno, Breadboard, Photoresistor, Passive Buzzer, 1 resistor and 5 wires.
+- **Code File**: [Tutorial26_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/42ahyWUkTiU?si=GfJ7BoJqfzmtkjJ5)
+
+---
+
+### Tutorial 27: [Pushbuttons, Pull up and Pull Down resistors]
+
+**Description**: Understanding and using Pushbuttons, Pull up and Pull Down resistors.
+
+- **Main Components**: Arduino uno, Breadboard, Pushbutton, 1 LED(330 ohm, 10k ohm), 2 resistors and 5 wires.
+- **Code File**: [Tutorial27_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/AgQW81zzR18?si=g7Td7B_Wcd0ZcQUx)
+
+---
+
+### Tutorial 28: [Toggle Switch]
+
+**Description**: Using a Pushbutton as a Toggle Switch.
+
+- **Main Components**: Arduino uno, Breadboard, Pushbutton, 1 LED, 2 resistors(330 ohm, 10k ohm) and 5 wires.
+- **Code File**: [Tutorial28_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/aMato4olzi8?si=_jDlyISkzJMzyN4S)
+
+---
+
+### Tutorial 29: [Dimmable LED]
+
+**Description**: Using Push Buttons to Create Dimmable LED.
+
+- **Main Components**: Arduino uno, Breadboard, Active Buzzer, 2 Pushbutton, 1 LED, 3 resistors(330 ohm,2 10k ohm) and 10 wires.
+- **Code File**: [Tutorial29_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/XWL6Ydsmi0s?si=rJl0GmZvk2VHxbf9)
+
+---
+
+---
+
+### Tutorial 30: [Servos]
+
+**Description**: Understanding and Using Servos in Projects.
+
+- **Main Components**: Arduino uno, Servo motor and 3 wires.
+- **Code File**: [Tutorial30_Code](https://github.com/Samia8Asim/Arduino-Paul-McWhorter-tutorials/blob/main/Tutorial19_Code/Tutorial19_Code.ino)
+- **YouTube Tutorial**: [Link to the tutorial](https://youtu.be/aFHu65LiFok?si=FyRUcyxDrYQr9j87)
+
+---
+
 ## How to Use
 
 1. Clone the repository:
